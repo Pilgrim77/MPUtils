@@ -1,0 +1,31 @@
+tips.get=Полезный совет!
+
+mp.mpinfoedit.title
+
+mp.quickCommands.edit.title=Задайте вашу быструю команду
+mp.quickCommands.title=Быстрые команды
+mp.quickCommands.title.local=Локальные команды
+mp.quickCommands.title.global=Глобальные команды
+mp.quickCommands.hover=Нажмите %d для запуска
+mp.quickCommands.hover2=или нажмите
+mp.quickCommands.pause=Игровая пауза
+
+mp.quickCommands.local=Local Instance Commands
+mp.quickCommands.global=Global Instance Commands
+
+mp.text.title=Название
+mp.text.newCmd=Новая команда
+advMode.toggleBoolean=Используйте "@t" для переключения (true, false)
+
+
+mp.text.mpinfoedit.title=Редактировать файл MPInfo.info
+mp.text.mpinfo.name=Название набора
+mp.text.mpinfo.desc=Описание
+mp.text.mpinfo.ver=Версия (Max.Min.Rev)
+mp.text.mpinfo.url=Вебсайт
+mp.text.mpinfo.authors=Авторы
+mp.text.mpinfo.credits=Спонсоры
+
+mp.text.settingsgui.title=Настройки MPUtils
+mp.buttontext.mpinfoedit=Редактировать MPInfo
+mp.buttontext.configfile=Редактировать MPUtils.cfg
